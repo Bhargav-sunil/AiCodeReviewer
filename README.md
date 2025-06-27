@@ -1,5 +1,7 @@
 # 💡 AI Code Reviewer (React + Node.js + Gemini API)
 
+LIVE URL: https://ai-code-reviewer-olive.vercel.app/
+
 A web-based code review assistant powered by Google Gemini 2.0 Flash. This app allows users to input code and get real-time feedback and suggestions from an AI model.
 
 ---
